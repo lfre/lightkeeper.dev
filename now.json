@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "name": "lightkeeper.dev",
+  "alias": [
+    "lightkeeper.dev"
+  ],
+  "builds": [
+    {
+      "src": "index.html",
+      "use": "@now/static"
+    }
+  ]
+}
